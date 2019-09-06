@@ -1,0 +1,3 @@
+rootProject.name='Epoxy6Canary10Issue'
+include ':app'
+include ':common'
